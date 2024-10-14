@@ -15,7 +15,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/simple-form-automation.git
+git clone https://github.com/shivu00777/Maven_BBD_testNG.git
 Install Maven dependencies:
 
 Run the following command to install the required dependencies:
